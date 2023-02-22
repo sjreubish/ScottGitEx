@@ -1,2 +1,4 @@
 # ScottGitEx
-ScottGitEx - for Git exercises
+Used for Git exercises
+
+Created branch0
